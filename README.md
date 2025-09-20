@@ -22,12 +22,12 @@ This hands-on program demonstrates the complete ASIC design cycle:
 This program is part of India’s Semiconductor Mission to create a new generation of skilled chip designers who don’t just simulate designs—but fabricate them. With the help of Synopsys EDA tools and the SCL180nm PDK, participants gain first-hand exposure to industry-grade flows, learning how to take a design all the way to post-silicon validation. 
 
 
-## Project Outcomes  
+## **Project Outcomes**  
 - Reusable RTL→GDSII flow with documented constraints and sign‑off artifacts 
 - Corner‑clean timing reports (TT/SS/FF), SDF‑annotated GLS logs, and reproducible scripts  
 - Tapeout submission package (GDSII + documentation) aligned with SCL requirements 
 
-## Tools & Infrastructure
+## **Tools & Infrastructure**
 
 | Category              | Tools / Details |
 |------------------------|-----------------|
