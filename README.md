@@ -39,9 +39,13 @@ This program is part of India’s Semiconductor Mission to create a new generati
 ## **Weekly Progress Tracker**
 
 ![Week 0](https://img.shields.io/badge/Week%200-Setup-success?style=flat-square)
+
 ![Week 1](https://img.shields.io/badge/Week%201-Upcoming-lightgrey?style=flat-square)
+
 ![Week 2](https://img.shields.io/badge/Week%202-Upcoming-lightgrey?style=flat-square)
+
 ![Week 3](https://img.shields.io/badge/Week%203-Upcoming-lightgrey?style=flat-square)
+
 ![Week 4](https://img.shields.io/badge/Week%204-Upcoming-lightgrey?style=flat-square)
 
 Stay tuned! Each badge will turn **green** as weeks are completed.  
