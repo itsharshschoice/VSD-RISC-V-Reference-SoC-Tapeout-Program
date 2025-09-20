@@ -38,7 +38,7 @@ This program is part of India’s Semiconductor Mission to create a new generati
 
 ## **Weekly Progress Tracker**
 
-![Week 0](https://img.shields.io/badge/Week%200-Setup-success?style=flat-square)(https://github.com/itsharshschoice/VSD-RISC-V-Reference-SoC-Tapeout-Program/tree/main/Week%200)
+[![Week 0](https://img.shields.io/badge/Week%200-Setup-success?style=flat-square)](https://github.com/itsharshschoice/VSD-RISC-V-Reference-SoC-Tapeout-Program/tree/main/Week%200)
 
 ![Week 1](https://img.shields.io/badge/Week%201-Upcoming-lightgrey?style=flat-square)
 
